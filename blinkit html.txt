@@ -1,0 +1,64 @@
+<html>
+    <head>
+ <link rel="stylesheet" href="style.css">
+ <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row1">
+                <img  class="logo" src="img/blinkit-logo.png">
+                <div class="dilavery"><h3>Delivery in 9 minutes</h3><p>SORT Boyes Hostel....<ion-icon name="caret-down-outline"></ion-icon></p></div>
+                <div class="searchbox"><ion-icon class="searchicon" name="search-outline"></ion-icon>
+                    <input type="text"  class="search" >
+                </div>
+            <button class="login">Login</button>
+            <button class="Mycart"><ion-icon name="cart-outline"></ion-icon>My cart</button>
+        </div>
+        
+            <div class="row2">
+                <div class="container">
+                    <div class="line1">
+                        <img src="banner/01.jpg" >
+                <div class="line2">
+                    <img src="imaged/01.jpg" alt="">
+                    <img src="imaged/02.jpg" alt="">
+                    <img src="imaged/03.jpg" alt="">
+                </div>
+                    <div class="line3">
+                        <div class="box"><img src="poster/01.jpeg" alt=""></div>
+                        <div class="box"><img src="poster/02.png" alt=""></div>
+                        <div class="box"><img src="poster/03.png" alt=""></div>
+                        <div class="box"><img src="poster/04.png" alt=""></div>
+                        <div class="box"><img src="poster/05.png" alt=""></div>
+                        <div class="box"><img src="poster/06.png" alt=""></div>
+                        <div class="box"><img src="poster/07.png" alt=""></div>
+                        <div class="box"><img src="poster/08.png" alt=""></div>
+                        <div class="box"><img src="poster/09.png" alt=""></div>
+                        <div class="box"><img src="poster/10.png" alt=""></div>
+                        <div class="box"><img src="poster/11.png" alt=""></div>
+                        <div class="box"><img src="poster/12.png" alt=""></div>
+                        <div class="box"><img src="poster/13.png" alt=""></div>
+                        <div class="box"><img src="poster/14.png" alt=""></div>
+                        <div class="box"><img src="poster/15.png" alt=""></div>
+                        <div class="box"><img src="poster/16.png" alt=""></div>
+                        <div class="box"><img src="poster/17.png" alt=""></div>
+                        <div class="box"><img src="poster/18.png" alt=""></div>
+                        <div class="box"><img src="poster/19.png" alt=""></div>
+                        <div class="box"><img src="poster/20.png" alt=""></div>
+                    </div>
+                    <h2>Dairy,bread & Eggs</h2>
+                    <div class="line4">
+                        <div class="img"><img src="dairyitem/01.jpg" alt=""></div>
+                        <div class="img"><img src="dairyitem/02.jpg" alt=""></div>
+                        <div class="img"><img src="dairyitem/03.jpg" alt=""></div>
+                        <div class="img"><img src="dairyitem/04.jpg" alt=""></div>
+                        <div class="img"><img src="dairyitem/05.jpg" alt=""></div>
+                        <div class="img"><img src="dairyitem/06.jpg" alt=""></div>
+                        <div class="img"><img src="dairyitem/07.jpg" alt=""></div>
+                    </div>
+                </div>
+                </div>
+            </div>
+    </body>
+</html>
